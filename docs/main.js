@@ -1,3 +1,3 @@
 setTimeout(() => {
-    window.location = 'https://github.com/hiredgun';
+    window.location = 'https://twitter.com/_hiredgun';
 }, 200);
